@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-15T18:41:34-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Stacy's Site'",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-15T18:41:35-04:00"
+    }
+  ],
+  "collections": []
+}
