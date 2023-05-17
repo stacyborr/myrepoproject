@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Stacy Borr's Website",
+      "description": "This is a website highlighting my work.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-05-15T18:41:34-04:00"
+      "last_modified": "2023-05-17T17:50:41-04:00"
     },
     {
       "path": "index.html",

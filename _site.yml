@@ -9,4 +9,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+      - text: "Professional Work"
+      href: professional.html
+      - text: "Academic Work"
+      href: academic.html
+      - text: "Contact Information"
+      href: contact.html
 output: distill::distill_article
